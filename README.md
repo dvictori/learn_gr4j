@@ -7,4 +7,7 @@ This repository is meant to be used as learning purposes:
 
 All tests are carried out using iPython Notebooks
 
+Test datasets and its descriptions are available in the `datasets` folder.
+
+
 _Beware of fractured English, bad codding practices, portuguese words and use of improper language_
